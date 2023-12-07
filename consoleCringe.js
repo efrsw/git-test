@@ -1,3 +1,2 @@
-console.log("And here also))");
-console.log("This is a new feature!");
+console.log("I want damn conflicts");
 console.log("The development continues!");
